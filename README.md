@@ -1,0 +1,4 @@
+# [Landing Page Project](https://amnah-alshammari.github.io/2nd-Project-Landing-Page/)
+
+This project contains a multi-section landing page, with a dynamically updating navigational menu based on the amount of content that is added to the page [view project live](https://amnah-alshammari.github.io/2nd-Project-Landing-Page/).
+
